@@ -31,7 +31,7 @@ return {
     'nm-applet --indicator', -- wifi
     'pa-applet', -- shows an audiocontrol applet in systray when installed.
     --'blueberry-tray', -- Bluetooth tray icon
-    --'xfce4-power-manager', -- Power manager
+    'xfce4-power-manager', -- Power manager
     'ibus-daemon --xim', -- Ibus daemon for keyboard
     'scream -u -p 4011 -i virbr1', -- scream audio sink
     'numlockx on', -- enable numlock

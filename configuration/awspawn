@@ -8,14 +8,13 @@
 
 # List of applications to run
 APPS=(
-    kdeconnect-indicator
+    tilda
     redshift-gtk
 
     )
 
 # Some applications start child applications that need to be killed on reload
 KILL=(
-   redshift
     )
 
 # First kill lingering apps
